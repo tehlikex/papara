@@ -3,9 +3,9 @@ import email
 from email.header import decode_header
 
 # E-posta hesabı bilgileriniz
-EMAIL_USER = 'sizin mail@gmail.com'
-EMAIL_PASS = 'email anahtarınız'
-IMAP_SERVER = 'imap.gmail.com' # imap sağlayıcısı sadece google üzerinde test edildi 
+EMAIL_USER = 'your_email@gmail.com'
+EMAIL_PASS = 'your_application_specific_password'
+IMAP_SERVER = 'imap.gmail.com'
 
 def check_email_for_payment(description):
     # IMAP sunucusuna bağlanın
