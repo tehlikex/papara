@@ -1,7 +1,7 @@
-## versiyon 0.1 
+## versiyon 0.2
 
 ## bir sonraki güncelleme 
-bir sonraki güncelleme de cüzdan şeklinde yapmayı düşünüyorum şuanda ödeme yapanları ayrı ayrı tutmuyor data da no sql ile sadece anlık ödeme yapma işlevi var ek özelik isteklerinizi ütfen iletin destek için [telegram](t.me/yaaniyakup)
+bir sonraki özelllik isteiğinizi belirtin yayımlayalım [telegram](t.me/yaaniyakup)
 
 # Telegram Papara kişisel hesap için  Ödeme alma  Botu
 
