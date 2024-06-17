@@ -1,3 +1,8 @@
+## versiyon 0.1 
+
+## bir sonraki güncelleme 
+bir sonraki güncelleme de cüzdan şeklinde yapmayı düşünüyorum şuanda ödeme yapanları ayrı ayrı tutmuyor data da no sql ile sadece anlık ödeme yapma işlevi var ek özelik isteklerinizi ütfen iletin destek için [telegram](t.me/yaaniyakup)
+
 # Telegram Papara kişisel hesap için  Ödeme alma  Botu
 
 Bu, Kişisel Papara  hesabı üzerinden yapılan ödemeleri belirli ödeme bilgilerini kontrol ederek doğrulayan bir Telegram botudur. Bot, kullanıcılara ödeme yaparken kullanmaları için benzersiz bir açıklama sağlar ve bu açıklamayı içeren e-posta içeriğini kontrol ederek ödemeyi doğrular.
